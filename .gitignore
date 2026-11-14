@@ -1,0 +1,27 @@
+# 权限诊断恢复目录（本机专用，不入库）
+.acl-recovery/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
