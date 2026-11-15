@@ -1,27 +1,17 @@
 # git_text
 
-这里是 git_text 项目的代码仓库。
+后端学习仓库（郑轻 · 网云 2025 级）
 
-## 快速开始
+## 目录
 
-```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
-```
-
-## 项目结构
-
-```
-.
-├── README.md
-└── .gitignore
-```
+- `notes/` 学习笔记（按周）
+- `linux/` Linux 练习脚本
+- `sql/` MySQL 建表与查询练习
+- `redis/` Redis demo
+- `proj-http-server/` 项目一：C++ epoll HTTP 服务器
+- `proj-seckill/` 项目二：高并发秒杀系统
 
 ## 说明
 
-- 默认分支：`main`
-- 提交前请确认 `.env`、`node_modules/` 等未被纳入版本控制
-
-## License
-
-MIT
+- 当前主分支：`main`
+- 提交前请确认 `.env`、`node_modules/`、编译产物未被纳入
