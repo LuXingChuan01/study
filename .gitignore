@@ -1,6 +1,19 @@
 # 权限诊断恢复目录（本机专用，不入库）
 .acl-recovery/
-
+# C / C++
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.a
+*.dll
+*.lib
+*.pdb
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+a.out
 # Node
 node_modules/
 dist/
