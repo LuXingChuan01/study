@@ -1,4 +1,5 @@
 # 学习笔记（按周）
+# 学习笔记（p1 分支改的）
 这一行是我练习 Git 加的
 
 
@@ -8,3 +9,8 @@ git diff -- 查看具体改了什么
 git add -- 把改动放入暂存区
 git commit -m "注释" -- 提交
 git log --oneline -- 查看更改历史（批注）
+
+2026.11.17 学习Git
+git checkout -b practice-a
+└─┘ └──────┘ └┘ └───────┘
+  程序  动作 参数  分支名
