@@ -16,3 +16,6 @@ git checkout -b practice-a -- 创建分支
 git checkout main -- 回到某个分支（main是主分支）
 └─┘ └──────┘ └──┘
 程序   动作   目标
+git branch -d p1 -- 删除分支
+└─┘ └────┘ └┘ └┘
+程序  动作  参数 分支名
