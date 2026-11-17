@@ -13,3 +13,6 @@ git log --oneline -- 查看更改历史（批注）
 git checkout -b practice-a
 └─┘ └──────┘ └┘ └───────┘
   程序  动作 参数  分支名
+git checkout main
+└─┘ └──────┘ └──┘
+程序   动作   目标
